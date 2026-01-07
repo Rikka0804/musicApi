@@ -42,14 +42,9 @@ const osMap = {
   },
   android: {
     os: 'android',
-    osver: '13',
-    appver: '9.0.25',
-    channel: 'huawei',
-    versioncode: '9000025',
-    buildver: '2402051046',
-    mobilename: 'sukimon',
-    EVNSM: '1.0.0',
-    packageType: 'release',
+    appver: '8.20.20.231215173437',
+    osver: '14',
+    channel: 'xiaomi',
   },
   iphone: {
     os: 'iPhone OS',
